@@ -1,0 +1,4 @@
+run
+exit
+import java.util.{Date,Locale}
+exit
